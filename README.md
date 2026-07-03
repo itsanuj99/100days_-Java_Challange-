@@ -1,111 +1,117 @@
- # ☕ 100 Days of Java Challenge
+# ☕ 100 Days of Java Challenge
 
-Welcome to my **100 Days of Java Challenge**! 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Challenge-100%20Days-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge" />
+</p>
 
-This repository documents my journey of learning and improving my Java programming skills by coding consistently every day.
+## 📖 About
 
-## 🎯 Challenge Goal
+Welcome to my **100 Days of Java Challenge**.
 
-* Code in Java every day for **100 days**
-* Strengthen Core Java concepts
-* Improve problem-solving skills
-* Build consistency and discipline
-* Prepare for coding interviews and placements
+The goal of this challenge is to build strong Java programming skills through **daily coding, problem-solving, and consistent GitHub commits**.
+
+I will upload Java programs every day while learning different concepts from basic to advanced.
 
 ---
- 
+
+## 🎯 Objectives
+
+- Learn Java from scratch
+- Build strong problem-solving skills
+- Practice coding consistently for 100 days
+- Improve logical thinking
+- Build a professional GitHub portfolio
+- Prepare for Software Developer placements
+
+---
+
+## 📅 Progress
+
+| Day | Topic | Status |
+|-----|--------|--------|
+| Day 01 | Java Fundamentals | ✅ Completed |
+| Day 02 | Variables & Data Types | ⏳ Coming Soon |
+| Day 03 | Operators | ⏳ Coming Soon |
+| Day 04 | Input & Output | ⏳ Coming Soon |
+| Day 05 | Conditional Statements | ⏳ Coming Soon |
+
+---
+
 ## 📂 Repository Structure
 
 ```
-100-days-java-challenge/
+100days-java-challenge
 │
-├── Day01/
-├── Day02/
-├── Day03/
-├── Day04/
-├── Day05/
+├── Day01
+│   └── Fundamentals
+│       ├── Hello.java
+│       ├── Escape.java
+│       └── Literals.java
 │
-├── ...
+├── Day02
+│
+├── Day03
 │
 └── README.md
 ```
 
-Each folder contains:
+---
 
-* Java source code
-* Practice programs
-* Concepts covered
-* Notes (when required)
+## 🚀 Topics Covered
+
+- Java Fundamentals
+- Variables
+- Data Types
+- Operators
+- Input Output
+- Conditional Statements
+- Loops
+- Methods
+- Arrays
+- Strings
+- Object-Oriented Programming
+- Exception Handling
+- Collections
+- File Handling
+- Multithreading
+- JDBC
+- Mini Projects
 
 ---
 
-## 📚 Topics Covered
+## 💻 Technologies
 
-* Java Basics
-* Variables & Data Types
-* Operators
-* Input & Output
-* Conditional Statements
-* Loops
-* Pattern Printing
-* Methods
-* Arrays
-* Strings
-* Object-Oriented Programming (OOP)
-* Constructors
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-* Exception Handling
-* Collections Framework
-* File Handling
-* Multithreading
-* Java 8 Features
-* Mini Projects
-* Practice Problems
+- Java
+- VS Code
+- Git
+- GitHub
 
 ---
 
-## 🛠 Tech Stack
+## 📌 Challenge Rules
 
-* Java
-* IntelliJ IDEA / VS Code
-* Git
-* GitHub
-
----
-
-## 🎯 Why This Challenge?
-
-This challenge helps me:
-
-* Develop consistency
-* Improve coding skills
-* Learn Java deeply
-* Track daily progress
-* Prepare for software engineering placements
+- ✅ Code every day
+- ✅ Push code daily
+- ✅ Learn new Java concepts
+- ✅ Write clean and readable code
+- ✅ Maintain consistency for 100 days
 
 ---
 
 ## 📈 Current Progress
 
-**Completed:** `0 / 100 Days`
-
-> This section will be updated every day.
+- ✅ Completed Days: **1 / 100**
+- ⏳ Remaining Days: **99 / 100**
 
 ---
 
 ## 🤝 Connect with Me
 
-If you have suggestions or feedback, feel free to connect!
-
-* GitHub: **https://github.com/anujverma8395**
+**GitHub:**  
+https://github.com/anujverma8395
 
 ---
 
-### ⭐ Support
-
-If you find this repository helpful, don't forget to **Star ⭐** the repository.
-
-Happy Coding! 💻🚀
+⭐ If you like this repository, don't forget to give it a star!
