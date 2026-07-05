@@ -27,18 +27,7 @@ I will upload Java programs every day while learning different concepts from bas
 
 ---
 
-## 📅 Progress
-
-| Day | Topic | Status |
-|-----|--------|--------|
-| Day 01 | Java Fundamentals | ✅ Completed |
-| Day 02 | Variables & Data Types | ⏳ Coming Soon |
-| Day 03 | Operators | ⏳ Coming Soon |
-| Day 04 | Input & Output | ⏳ Coming Soon |
-| Day 05 | Conditional Statements | ⏳ Coming Soon |
-
----
-
+ 
 ## 📂 Repository Structure
 
 ```
